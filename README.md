@@ -1,2 +1,3 @@
-• Conducted in-depth analysis of Zomato's global performance using Excel and visualization tools.
-• Identified potential markets like the Philippines and Qatar, recommending data-driven expansion strategies.
+•	Conducted data collection, cleaning, and processing using Excel and visualization tools.
+•	Identified key patterns, trends, and KPIs to assess business opportunities.
+•	Developed reports and dashboards to support data-driven decision-making.
