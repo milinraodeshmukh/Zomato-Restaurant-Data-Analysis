@@ -1,4 +1,6 @@
 # 🍽️ Zomato Restaurant Expansion Analysis  
+## Advanced Excel Data Driven Analytics Project  
+**Prepared By: Milin Rao Deshmukh**
 
 ## 📌 Project Overview  
 This project analyzes **global restaurant data** to identify the best **countries and cities** for new Zomato restaurant openings.  
